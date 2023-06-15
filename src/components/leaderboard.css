@@ -1,0 +1,9 @@
+.leaderboardContainer {
+  overflow: auto;
+}
+
+.title {
+  display: flex;
+  gap: 3px;
+  font-weight: bold;
+}
